@@ -1,0 +1,9 @@
+<form [formGroup]="meteoForm" (ngSubmit)="onSubmit()">
+    <div>
+      <label for="city">
+        City
+      </label>
+      <input id="city" type="text" formControlName="city">
+    </div>
+    <button class="button" type="submit">Submit</button>
+  </form>

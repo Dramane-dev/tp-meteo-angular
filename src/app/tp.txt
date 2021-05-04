@@ -1,0 +1,28 @@
+
+Créer une application Angular qui affiche la météo des 2 prochaines semaines pour une ville donnée. 
+
+La météo doit apparaître (ex: “Cloudy”) ainsi que la température minimum, maximum et moyenne de la journée, 
+l’humidité, la vitesse du vent.
+
+Vous pouvez ajouter des infos.
+
+L’utilisateur doit entrer un nom de ville dans un input HTML. 
+
+Lorsqu’il valide le formulaire via un bouton submit, il voit apparaître dans un tableau la météo prévue des 14 prochains jours.
+Utilisez l’API OpenWeatherMaps, 
+dans la partie Daily Forecast 16 days.
+
+Un clic sur une des lignes doit rediriger l’utilisateur vers un site de météo de votre choix pour afficher des détails
+de la météo de cette journée,
+en ce lieu. Ce site doit apparaître dans un nouvel onglet.
+
+Vous devez utiliser Bootstrap 4 pour styliser l’application.
+
+
+Bonus : Ajouter une image (un soleil, des nuages, etc.) 
+sur la ligne de météoCritères de notation par ordre d’importance :
+- Fonctionnalité du projet
+- Découpage bien pensé entre les différents fichiers
+- Propreté du code (nommage, taille des fonctions limitée etc.)
+- Utilisation efficace de TypeScript, algorithmie performante- Style/Apparence 
+
